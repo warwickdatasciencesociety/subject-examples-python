@@ -1,0 +1,10 @@
+name: subject-examples-python-env
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - rdkit
+  - tqdm
+  - pillow
+  - numpy
+
